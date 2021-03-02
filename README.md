@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="250"/>
 
 - 🔭 I’m currently working at Sayna as a web developer
 - 🌱 I’m currently learning computer science by following [OSSU](https://github.com/ossu/computer-science) program

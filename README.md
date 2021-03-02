@@ -1,5 +1,3 @@
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="250"/>
-
 
 ### Hi there 👋
 
@@ -57,4 +55,6 @@
 
 
 <h1 align="center">Thanks for visiting my github profile :smiley:</h1>
+
+<img align="center" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 

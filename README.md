@@ -46,7 +46,10 @@
 <a href="https://twitter.com/RanjaMario" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
 </p>
   
+
+<p align="center">  
 <img align="center" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+</p>
   
 <!--
 <h4 align="center">Visitor's count</h4>

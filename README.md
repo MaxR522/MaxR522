@@ -42,6 +42,6 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/mario-randrianomearisoa/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 <a href="https://www.instagram.com/r.mario.r/"><img alt="Instagram" src="https://img.shields.io/badge/r.mario.r%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
 <a href="https://www.facebook.com/R.Mario22"><img alt="Facebook" src="https://img.shields.io/badge/Facebook%20-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/>
-<a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
+<a href="https://www.pinterest.com/mariorandrianomearisoa/_saved/"><img alt="Pinterest" src="https://img.shields.io/badge/Mario%20-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white"/>
 <a href="https://twitter.com/RanjaMario"><img alt="Twitter" src="https://img.shields.io/badge/RanjaMario%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
 </p>

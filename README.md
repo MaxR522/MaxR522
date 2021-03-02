@@ -46,12 +46,12 @@
 <a href="https://twitter.com/RanjaMario" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
 </p>
   
+<img align="center" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+  
 <!--
 <h4 align="center">Visitor's count</h4>
 -->
 <!--
 <p align="center"><img src="https://profile-counter.glitch.me/{MaxR522}/count.svg" alt="MaxR522 :: Visitor's Count" /></p>
 -->
-
-<img align="center" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 

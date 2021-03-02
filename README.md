@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 - 🔭 I’m currently working at Sayna as a web developer
 - 🌱 I’m currently learning computer science on [OSSU](https://github.com/ossu/computer-science)
 - 👯 I’m looking to collaborate on web development project

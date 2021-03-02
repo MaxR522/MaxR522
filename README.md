@@ -47,10 +47,13 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/RanjaMario" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/RanjaMario%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
 </p>
   
-  
+<!--
 <h4 align="center">Visitor's count</h4>
-
+-->
+<!--
 <p align="center"><img src="https://profile-counter.glitch.me/{MaxR522}/count.svg" alt="MaxR522 :: Visitor's Count" /></p>
+-->
 
-<h4 align="center">Thanks for visiting my github profile :smiley:</h4>
+
+<h1 align="center">Thanks for visiting my github profile :smiley:</h1>
 

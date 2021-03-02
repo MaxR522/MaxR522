@@ -1,5 +1,5 @@
 
-### Hi there 👋
+### 👨🏻‍💻 &nbsp;About Me
 
 - 🔭 I’m currently working at Sayna as a web developer
 - 🌱 I’m currently learning computer science by following [OSSU](https://github.com/ossu/computer-science) program

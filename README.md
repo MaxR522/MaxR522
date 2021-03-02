@@ -39,10 +39,10 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/mario-randrianomearisoa/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-<a href="https://www.instagram.com/r.mario.r/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/r.mario.r%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
+<a href="https://www.instagram.com/r.mario.r/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
 <a href="https://www.facebook.com/R.Mario22" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook%20-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/>
-<a href="https://www.pinterest.com/mariorandrianomearisoa/_saved/" target="_blank"><img alt="Pinterest" src="https://img.shields.io/badge/Mario%20-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white"/>
-<a href="https://twitter.com/RanjaMario" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/RanjaMario%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
+<a href="https://www.pinterest.com/mariorandrianomearisoa/_saved/" target="_blank"><img alt="Pinterest" src="https://img.shields.io/badge/pinterest%20-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white"/>
+<a href="https://twitter.com/RanjaMario" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
 </p>
   
 <!--

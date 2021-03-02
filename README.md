@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working at Sayna as a web developer
 - 🌱 I’m currently learning computer science on [OSSU](https://github.com/ossu/computer-science)
 - 👯 I’m looking to collaborate on web development project

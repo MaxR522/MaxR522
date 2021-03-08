@@ -39,7 +39,7 @@
 
 
 <p align="center">
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MaxR522&theme=dark)]
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MaxR522&theme=dark)
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me on:

@@ -37,6 +37,11 @@
 </a>
 </p>
 
+
+<p align="center">
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
+</p>
+
 ### 🤝🏻 &nbsp;Connect with Me on:
 
 <p align="center">

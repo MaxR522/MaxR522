@@ -55,7 +55,7 @@
 <!--
 <h4 align="center">Visitor's count</h4>
 -->
-
+<!--
 <p align="center"><img src="https://profile-counter.glitch.me/{MaxR522}/count.svg" alt="MaxR522 :: Visitor's Count" /></p>
-
+-->
 

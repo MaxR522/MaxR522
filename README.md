@@ -1,7 +1,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 🔭 I’m currently working at Sayna as a web developer
+- 🔭 I’m currently working as fullstack web developer
 - 🌱 I'm always learning something new everyday
 - 👯 I’m looking to collaborate on web development project
 - 💬 Ask me about anything you want (Maybe I have the answer :stuck_out_tongue_winking_eye:)

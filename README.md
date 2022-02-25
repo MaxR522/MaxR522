@@ -4,7 +4,6 @@
 - 🔭 I’m currently working as fullstack web developer
 - 🌱 I'm always learning something new everyday
 - 👯 I’m looking to collaborate on web development project
-- 💬 Ask me about anything you want (Maybe I have the answer :stuck_out_tongue_winking_eye:)
 - ✍️ &nbsp;In my free time, I like working on my personal project (not always about coding)
 - :mailbox_with_mail: Feel free to send me an email at ranjamario@gmail.com
 <!--

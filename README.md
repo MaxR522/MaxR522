@@ -1,5 +1,8 @@
 <!--suppress HtmlDeprecatedAttribute -->
+
 [<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" alt="giphy">](https://t.me/voko_aleksey)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+I'm+Mario!;I'm+a+JS+Developer;And+I'm+from+Madagascar)](https://git.io/typing-svg)
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -9,8 +12,6 @@
 <!--
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 -->
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+I'm+Mario!;I'm+a+JS+Developer...;And+I'm+from+Madagascar)](https://git.io/typing-svg)
 
 ### 🛠 &nbsp;Tech Stack & Tools
 
@@ -28,7 +29,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![Figma](https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 
 <!-- BADGE_URL: https://github.com/Ileriayo/markdown-badges -->
 
@@ -41,25 +41,24 @@
 </a>
 </p> -->
 
-<details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/MaxR522">
-      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MaxR522&show_icons=true&theme=algolia&show_icons=true&include_all_commits=true&count_private=true"/>
-      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MaxR522&layout=compact&langs_count=8&theme=algolia"/>
-    </a>
-  </p>
-</details>
+  <details> 
+    <summary style="font-size: 16px; margin-bottom: 10px;"><b>💻 GitHub Profile Stats</b></summary>
+    <br/>
+    <p align="center">
+      <a href="https://github.com/MaxR522">
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MaxR522&show_icons=true&theme=algolia&show_icons=true&include_all_commits=true&count_private=true"/>
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MaxR522&layout=compact&langs_count=8&theme=algolia"/>
+      </a>
+    </p>
+  </details>
 
+  <details>
+    <summary style="font-size: 16px"><b>⚡ Recent GitHub Activity</b></summary>
+    <br/>
+    <a href="https://github.com/MaxR522"><img alt="MaxR522's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MaxR522&custom_title=Mario's%20Contribution%20Graph&theme=react-dark" /></a>
+    <br/>
 
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/MaxR522"><img alt="MaxR522's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MaxR522&custom_title=Mario's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
-</details>
+  </details>
 
 ### 🤝🏻 &nbsp;Connect with Me on:
 
@@ -70,7 +69,6 @@
 <a href="https://www.pinterest.com/mariorandrianomearisoa/_saved/" target="_blank"><img alt="Pinterest" src="https://img.shields.io/badge/pinterest%20-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white"/>
 <a href="https://twitter.com/RanjaMario" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
 </p>
-  
 
 <p align="center">  
 <img align="center" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
@@ -82,4 +80,3 @@
 <!--
 <p align="center"><img src="https://profile-counter.glitch.me/{MaxR522}/count.svg" alt="MaxR522 :: Visitor's Count" /></p>
 -->
-

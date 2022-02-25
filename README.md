@@ -32,14 +32,34 @@
 
 <!-- BADGE_URL: https://github.com/Ileriayo/markdown-badges -->
 
-### ⚙️ &nbsp;GitHub Analytics
+### ⚙️ &nbsp;GitHub Analytics (expand to view)
 
-<p align="center">
+<!-- <p align="center">
 <a href="https://github.com/MaxR522">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MaxR522&show_icons=true&theme=algolia&show_icons=true&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MaxR522&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-</p>
+</p> -->
+
+<details> 
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/MaxR522">
+      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MaxR522&show_icons=true&theme=algolia&show_icons=true&include_all_commits=true&count_private=true"/>
+      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MaxR522&layout=compact&langs_count=8&theme=algolia"/>
+    </a>
+  </p>
+</details>
+
+
+<details>
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/MaxR522"><img alt="MaxR522's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MaxR522&custom_title=Mario's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
+
+</details>
 
 ### 🤝🏻 &nbsp;Connect with Me on:
 

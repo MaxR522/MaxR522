@@ -6,9 +6,9 @@
 
 ## 👨🏻‍💻 &nbsp;About Me
 
-- 🔭 I’m currently working as fullstack web developer
-- 🌱 I'm always learning something new everyday
-- 👯 I’m looking to collaborate on web development project
+- 🔭 I’m currently working as JS web developer
+- 🌱 I try to learn something new everyday
+- 👯 I’m looking for collaboration on web project
 <!--
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 -->
@@ -63,7 +63,10 @@
 #### Others
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
+
+#### OS
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 
 <!-- BADGE_URL: https://github.com/Ileriayo/markdown-badges -->
